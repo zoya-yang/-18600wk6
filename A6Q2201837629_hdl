@@ -5,7 +5,7 @@ CHIP A6Q2201837629 {
     PARTS:
     // Intermediate signals
     Not(a=~a, out=na);
-    Not(b=~b, out=nb);
+    Not(b=~b, out=nb)
     Not(c=~c, out=nc);
     Not(d=~d, out=nd);
 
